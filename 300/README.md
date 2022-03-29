@@ -109,3 +109,5 @@ Created and Deployed
 Review the **Properties** tab and verify the information–such as a **Computer name** of **vm-lab-win001**, and a **Size** of **Standard DS1 v2**–matches the values in the tasks above. You may need to click **Refresh** to get up-to-date information on the Properties tab.
 
 Congratulations! You have deployed your first virtual machine running Windows Server 2019 Datacenter. Creating VMs through the Azure Portal is a quick process as long as you have all of the information you need for size, type, and networking.
+
+***WARNING***: Stop the VM if you do not want to run up to paying for this service. You can Restart whenever you need the VM to be running again.
