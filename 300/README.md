@@ -66,13 +66,13 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 12. In **Create public IP address**, enter the following and then click **OK**.
 
-- **Name**: ```vm-lab-win001-ip``` (This should be entered already for you.)
+- **Name**: ```vm-lab-win001-ip``` (This should be entered already for you.) ***Note***: As our policy does not allow exposure to the Public Internet, we choose **None** instead.
 
 - **SKU**: **Standard**
 
 13. For **Public inbound ports**, choose **None**.
 
-![Screenshot 2022-03-29 111321](https://user-images.githubusercontent.com/12828104/160577593-c5fc21ce-c0dc-40fc-be70-85733bb21b8d.png)
+![Screenshot 2022-03-29 131040](https://user-images.githubusercontent.com/12828104/160598918-6869886e-16a9-45d6-905d-c8347cce66e8.png)
 
 Networking
 
