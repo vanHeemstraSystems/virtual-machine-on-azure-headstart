@@ -16,6 +16,8 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 3. At the **Virtual machines** page, click the **+Create** button, then choose **+ Virtual machine**.
 
+![Screenshot 2022-03-29 102309](https://user-images.githubusercontent.com/12828104/160567258-70fba4f4-a9f1-4ab5-97bb-1958fc4c42f3.png)
+
 4. In the **Create a virtual machine** window, enter the following information under the Basics tab:
 
 - **Resource Group**: Click **Create new**, enter ```pluralsight-resource-group```, then click **OK**.
