@@ -26,7 +26,7 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 - **Virtual machine name**:  ```vm-lab-win001```
 
-- **Region**: Choose **(US) East US** from the dropdown menu 
+- **Region**: Choose **(US) East US** from the dropdown menu. **Note**: In our case we are restricted to (Europe) West Europe.
 
 - **Image**: Choose **Windows Server 2019 Datacenter - Gen2** from the dropdown menu
 
@@ -39,6 +39,8 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 - **Confirm password**:  ```L234FOmdwer#2```
 
 - **Public inbound ports**: Choose **None**.
+
+![Screenshot 2022-03-29 105038](https://user-images.githubusercontent.com/12828104/160573027-913b1a7d-0c76-4aa0-97bf-26b5cea7854e.png)
 
 5. Click **Next: Disks**, then **Next: Networking**.
 
