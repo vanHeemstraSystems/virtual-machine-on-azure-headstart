@@ -84,6 +84,10 @@ Management
 
 Advanced
 
+![Screenshot 2022-03-29 130423](https://user-images.githubusercontent.com/12828104/160597976-d727f955-e01b-410d-a68b-b9b3d22d7784.png)
+
+Tags
+
 14. Leave the rest of the defaults, and click **Review + create**.
 
 15. In the **Review + create** tab, wait for the **Validation passed** message, then click **Create** to begin the build out of the virtual machine. 
