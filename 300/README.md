@@ -74,7 +74,15 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 ![Screenshot 2022-03-29 111321](https://user-images.githubusercontent.com/12828104/160577593-c5fc21ce-c0dc-40fc-be70-85733bb21b8d.png)
 
+Networking
+
 ![Screenshot 2022-03-29 125704](https://user-images.githubusercontent.com/12828104/160597007-a39e1849-d61b-49cc-a844-fcb4852ac5cc.png)
+
+Management
+
+![Screenshot 2022-03-29 130057](https://user-images.githubusercontent.com/12828104/160597430-4ced05d3-a281-4f46-b055-b2f0c9317a3a.png)
+
+Advanced
 
 14. Leave the rest of the defaults, and click **Review + create**.
 
