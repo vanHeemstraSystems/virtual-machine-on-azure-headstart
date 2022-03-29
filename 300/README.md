@@ -72,6 +72,8 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 13. For **Public inbound ports**, choose **None**.
 
+![Screenshot 2022-03-29 111321](https://user-images.githubusercontent.com/12828104/160577593-c5fc21ce-c0dc-40fc-be70-85733bb21b8d.png)
+
 14. Leave the rest of the defaults, and click **Review + create**.
 
 15. In the **Review + create** tab, wait for the **Validation passed** message, then click **Create** to begin the build out of the virtual machine. 
