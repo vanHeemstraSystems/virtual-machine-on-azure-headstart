@@ -104,6 +104,8 @@ Created and Deployed
 
 16. When your deployment is complete, click on **Go to resource**. This will take you to the ```vm-lab-win001 Overview```.
 
+![Screenshot 2022-03-29 132950](https://user-images.githubusercontent.com/12828104/160601785-b7249509-d161-4ff4-bc89-f97b38aa1c7b.png)
+
 Review the **Properties** tab and verify the information–such as a **Computer name** of **vm-lab-win001**, and a **Size** of **Standard DS1 v2**–matches the values in the tasks above. You may need to click **Refresh** to get up-to-date information on the Properties tab.
 
 Congratulations! You have deployed your first virtual machine running Windows Server 2019 Datacenter. Creating VMs through the Azure Portal is a quick process as long as you have all of the information you need for size, type, and networking.
