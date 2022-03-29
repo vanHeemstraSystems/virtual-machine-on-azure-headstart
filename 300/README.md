@@ -12,6 +12,8 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 2. Use the search bar at the top of the page to navigate to the **Virtual machines** service.
 
+![Screenshot 2022-03-29 101556](https://user-images.githubusercontent.com/12828104/160566299-f7a683a0-d5fc-4071-ac72-53454fc0c223.png)
+
 3. At the **Virtual machines** page, click the **+Create** button, then choose **+ Virtual machine**.
 
 4. In the **Create a virtual machine** window, enter the following information under the Basics tab:
