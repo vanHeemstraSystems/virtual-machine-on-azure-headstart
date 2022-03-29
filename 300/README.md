@@ -98,6 +98,10 @@ Tags
 
 Review and Create
 
+![Screenshot 2022-03-29 132212](https://user-images.githubusercontent.com/12828104/160600664-049acfee-b394-4187-a694-898ad661bfa0.png)
+
+Created and Deployed
+
 16. When your deployment is complete, click on **Go to resource**. This will take you to the ```vm-lab-win001 Overview```.
 
 Review the **Properties** tab and verify the information–such as a **Computer name** of **vm-lab-win001**, and a **Size** of **Standard DS1 v2**–matches the values in the tasks above. You may need to click **Refresh** to get up-to-date information on the Properties tab.
