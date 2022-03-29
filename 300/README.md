@@ -46,8 +46,6 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 ![Screenshot 2022-03-29 105622](https://user-images.githubusercontent.com/12828104/160574114-fa2e63a6-ecd2-4cf7-879a-d256779a1597.png)
 
-
-
 6. On the **Networking** tab under the **Virtual network** dropdown menu, click the **Create new** link.
 
 7. In **Create virtual network**, change the **Name** to ```vnet-lab-001```.
@@ -59,6 +57,8 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 - **Subnet name**:  ```snet-lab-001``` 
 
 - **Address range**:  ```10.0.0.0/24``` 
+
+![Screenshot 2022-03-29 110123](https://user-images.githubusercontent.com/12828104/160575585-a39e599e-13ce-45b1-a804-63912307e354.png)
 
 10. Click **Ok**. 
 
