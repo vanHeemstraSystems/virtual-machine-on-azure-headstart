@@ -22,6 +22,8 @@ In this challenge, you will deploy a Windows Server 2019 Datacenter edition virt
 
 - **Resource Group**: Click **Create new**, enter ```pluralsight-resource-group```, then click **OK**.
 
+![Screenshot 2022-03-29 103839](https://user-images.githubusercontent.com/12828104/160570305-4a52470d-2576-4171-9fc5-9c6fee6df70b.png)
+
 - **Virtual machine name**:  ```vm-lab-win001```
 
 - **Region**: Choose **(US) East US** from the dropdown menu 
