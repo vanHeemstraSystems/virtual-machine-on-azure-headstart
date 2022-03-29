@@ -6,7 +6,7 @@ Often used as a bridge for modernizing on-premises workloads to Microsoft Azure,
 
 In this challenge, you will deploy a Windows Server 2019 Datacenter edition virtual machine that will become a web server in Microsoft Azure.
 
-1. Click **Open Azure portal** to access the lab environment, then use the provided credentials to log in.
+1. Click **[Open Azure portal](https://login.microsoftonline.com/organizations/oauth2/v2.0/authorize?redirect_uri=https%3A%2F%2Fportal.azure.com%2Fsignin%2Findex%2F&response_type=code%20id_token&scope=https%3A%2F%2Fmanagement.core.windows.net%2F%2Fuser_impersonation%20openid%20email%20profile&state=OpenIdConnect.AuthenticationProperties%3DMb-Zkifm8iOh8SurtYWzqJdj2X9VVmjb2Nibl1_4Msfh1ckihngnQ3PLAhch4KN-w_NFx7intHUnGTTkyXF1k9qfXmwTcGIa5vKV-V-0xx-Iu-Hr8liJhz7v1hhzU-Nk-jgiOWfH3Hl6mbpr1ZJFR2g0gwr7ytUYyfHEUPwYAgj7PjmjNbQL8VUXSUd4EMMtmNol9rB_euoBSRJKpnSE69bKskb_11qM1HL59SKtLUPwTLwZun_dTqb9l4wSM9kemzVwVG_HJZxoxpbdtazKQIn9fHhYpasEiaB9WR5iT9W22oo7q3wskMFAGO3ZMRZcLn6f7W9WgY9JiUqtam-Ba1q1_X4ykF1Ni0qcNkunNRr8UHL9EAPaL92RtNXh1Fr-_j_yFcJPqLCTOM2ySp5rtA&response_mode=form_post&nonce=637841379636724262.NzZlZDdiZDItN2EwYi00ZDlkLWEzMTAtNzc4NDEyZTY0Y2IwZTg1YjA0YWUtNTk0Yy00MzllLWJkM2EtOTQxNmEzOTA1YjMw&client_id=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&site_id=501430&client-request-id=a859f2f4-c659-4382-83b9-70b3dc12fef6&x-client-SKU=ID_NET472&x-client-ver=6.12.2.0&sso_reload=true)** (recommended to open in new Incognito window) to access the lab environment, then use the provided credentials to log in.
 
 2. Use the search bar at the top of the page to navigate to the **Virtual machines** service.
 
